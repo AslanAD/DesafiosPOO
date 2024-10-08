@@ -2,7 +2,7 @@ package CardapioRu_nao_acabado;
 
 import java.util.Scanner;
 
-public class CardapioSemanal {
+public class Programa {
     public static void main(String[] args) {
         Menu menu = new Menu();
         Alimento alimento = new Alimento();
